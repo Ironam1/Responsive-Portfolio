@@ -32,12 +32,6 @@ header {
     border-bottom: 2px solid #cccccc;   
 }
 
-img {
-    width: 200px;
-    height: auto;
-    object-fit: cover;
-}
-
 .wrapper {
     position: relative;
     margin: 0 auto;
@@ -100,14 +94,28 @@ br {
     color: #4aaaa5;
     border-bottom: 2px solid #dddddd;
     
-}
-.pics {
+} 
+
+.frame {
     position: relative;
-    width: 200px;
+}
+
+img {
+    position: relative;
     height: 150px;
     margin: 20px;
-    
-   
+}
+
+.banner {
+    position: absolute;
+    top: 125px;
+    left: 40px;
+    width: 200px;
+    height: 30px;
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 5px;
+    text-align: center;
 }
 
 h4 {
