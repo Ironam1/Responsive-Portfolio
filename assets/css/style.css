@@ -77,12 +77,11 @@ br {
     display: flex;
     position: relative;
     height: 200px;
+    float: left;
 }
 
 #content1 {
-    position: relative;
-    display: flex
-    
+    position: relative;   
 }
 
 #about {
