@@ -131,19 +131,14 @@ h4 {
     margin-left: 20px;
 }
 
-#name {
+#name, #email, #LinkedIn, #GitHub {
     border: 1px solid #dddddd;
     margin: 5px;
     
     padding: 5px;
 }
 
-#email {
-    border: 1px solid #dddddd;
-    margin: 5px;
-    
-    padding: 5px;
-}
+
 
 #message {
     border: 1px solid #dddddd;
